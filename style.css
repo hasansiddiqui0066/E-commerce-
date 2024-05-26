@@ -1,0 +1,38 @@
+
+header{
+	background-color: maroon;
+	width: 100%;}
+
+header h1{
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding-left: 20px;}
+
+nav{
+	background-color: black}
+
+.nav1 ul li a{
+	color: white
+}		
+
+.slider{
+	background-color: orange;
+	height: 350px;}
+
+.phead{
+	padding: 10px 0;
+}
+
+.phead h2{
+	background-color: maroon;
+	color: white;
+	border-radius: 10px;
+	padding:5px 10px; }
+
+footer{
+	background-color: black;
+	color: white;
+	padding: 10px 0;
+	text-align: center;
+}		
